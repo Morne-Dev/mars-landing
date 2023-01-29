@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/donut"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mars-landing"
+	}
+}
